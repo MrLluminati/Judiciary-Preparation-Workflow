@@ -14,6 +14,8 @@ Current flow:
 
 ---
 
+# Week 1 — Day 1 — Monday — 11.05.2026
+
 # Article 12 — Definition of State
 
 ## Priority
@@ -156,6 +158,8 @@ Answer structure:
 Article 12 defines “State” broadly for Part III and covers governments, legislatures, local authorities, and other government-controlled/public authorities against whom Fundamental Rights may be enforced.
 
 ---
+
+# Week 1 — Day 2 — Tuesday — 12.05.2026
 
 # Article 13 — Laws Inconsistent with Fundamental Rights
 
