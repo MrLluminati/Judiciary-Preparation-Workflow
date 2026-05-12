@@ -64,6 +64,65 @@ The workflow must remain realistic for a court-going advocate. The normal court-
 | D21 | PYQ + error log |
 | D30 | Mock + final notes |
 
+## Subject Notebook Convention
+
+Clean study notes must be maintained subject-wise, not topic-wise.
+
+Use one notebook file per subject under `notes/`:
+
+| Subject | Notebook file |
+|---|---|
+| Constitution | `notes/notebook-constitution.md` |
+| CPC | `notes/notebook-cpc.md` |
+| Evidence / BSA | `notes/notebook-evidence-bsa.md` |
+| BNS | `notes/notebook-bns.md` |
+| BNSS | `notes/notebook-bnss.md` |
+| Contract | `notes/notebook-contract.md` |
+| TPA / SRA / Trusts | `notes/notebook-property-specific-relief-trusts.md` |
+| Torts | `notes/notebook-torts.md` |
+| Commercial Law | `notes/notebook-commercial-law.md` |
+| Hindi | `notes/notebook-hindi.md` |
+| English | `notes/notebook-english.md` |
+| Bihar GK | `notes/notebook-bihar-gk.md` |
+
+The subject notebook must contain clean final notes only:
+
+- topic heading;
+- priority level;
+- bare-act idea;
+- definitions;
+- explanation;
+- important case laws;
+- examples;
+- exam answer skeleton;
+- one-line revision.
+
+The subject notebook must not contain the full Q&A conversation, student draft answers, or correction dialogue. Those belong in the `practice/` folder.
+
+## Daily Note Label Convention
+
+Every topic entered into a subject notebook must be tagged with the study date in this format:
+
+`Week <number> — Day <number> — <Actual Weekday Name> — <Actual Date>`
+
+Example:
+
+`Week 1 — Day 2 — Tuesday — 12.05.2026`
+
+This label should appear before the relevant topic entry so that the notebook tracks both subject flow and daily study progress.
+
+## Documentation Split
+
+Use this split consistently:
+
+| Content type | Location |
+|---|---|
+| Clean subject notes | `notes/notebook-<subject>.md` |
+| Student answers and teacher corrections | `practice/<subject>/...` |
+| Mistakes and weak areas | `error-log/error-log.md` |
+| Daily completion and backlog | `docs/02-progress-tracker.md` |
+| Workflow rules | `docs/00-study-workflow.md` |
+
 ## Teacher Interaction Format
 
 For each topic, ChatGPT should teach in this order:
@@ -77,3 +136,12 @@ For each topic, ChatGPT should teach in this order:
 7. Mains answer skeleton.
 8. Error-log points.
 9. Compact note block for documentation.
+
+## Documentation Update Rule
+
+At the end of every completed study segment, update the relevant files:
+
+1. subject notebook if clean notes were created or expanded;
+2. practice file if Q&A, drill, MCQ, or answer correction happened;
+3. error log if a mistake or weak area was identified;
+4. progress tracker if a study block was completed, carried forward, or closed.
