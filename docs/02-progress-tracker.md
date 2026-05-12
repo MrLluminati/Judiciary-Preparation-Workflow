@@ -8,10 +8,10 @@
 | Preparation Mode | Practicing advocate + structured study |
 | Current Cycle | 12-week first cycle |
 | Current Week | Week 1 |
-| Current Subject | Constitution of India |
-| Current Topic | Fundamental Rights |
-| Current Provisions | Articles 12, 13, 14; skim Articles 15 and 16 |
-| Current Ladder Status | Day 2 in progress; Article 12 quick revision done; Article 13(1) and 13(2) bare-act reading done; Article 13 drill done; Article 14 concepts introduced; remaining morning backlog moved to Study Block 2, not Sunday |
+| Current Subject | Constitution of India + Weekly Rhythm Evidence/BSA |
+| Current Topic | Constitution: Fundamental Rights; Weekly Rhythm: Evidence/BSA + MCQs |
+| Current Provisions | Constitution Articles 12, 13, 14 completed; Article 15 started; Evidence/BSA Day 2 rhythm pending |
+| Current Ladder Status | Day 2 in progress; Constitution backlog substantially completed; correction made: Tuesday weekly rhythm requires Evidence/BSA + MCQs, which must be added before closing Day 2 |
 
 ## Daily Progress Log
 
@@ -19,46 +19,52 @@
 |---|---|---|---|---|---|---|---|
 | Day 0 | 2026-05-11 | Diagnostic: FRs, Art. 12–14 | Not applicable | Diagnostic answers completed | Setup discussion | Completed | Baseline confidence FRs: 2–3/10; Constitution feels scarier than CPC |
 | Day 1 | 2026-05-11 | Constitution: Article 12, with bare act reading of Articles 12–14 and skim of 15–16 | Bare act Articles 12–14 + skim 15–16 completed | Article 12 teaching + 4-question drill completed | Closed early due to late night and need to wake early | Partially completed | Article 12 basic concept clear. Backlog: Article 13 and Article 14 to be completed on Tuesday before moving forward. |
-| Day 2 | 2026-05-12 | Constitution: Day 1 backlog — Articles 13 and 14 | Article 12 quick revision done; Article 13(1) and 13(2) bare-act reading done; Article 13 drill completed; Article 14 equality, reasonable classification, and arbitrariness introduced through examples | Pending — must complete remaining backlog plus today’s syllabus | Pending | In progress | Remaining Study Block 1 backlog to be finished in Study Block 2: Article 14 final consolidation, short drill, error-log update, and today’s planned syllabus. Do not push today’s syllabus unless absolutely unavoidable. |
+| Day 2 | 2026-05-12 | Constitution backlog + Tuesday weekly rhythm Evidence/BSA + MCQs | Article 12 quick revision done; Article 13 drill done; Article 14 final drill, MCQs 10/10, and mains skeleton completed; Article 15(1) and 15(2) started | Pending correction: add Evidence/BSA + MCQs before closing Day 2 | Pending | In progress | Correction: Tuesday weekly rhythm should include Evidence/BSA + MCQs. Article 15(3)–15(6) should not replace Evidence/BSA; it can move to Day 3 light continuation if needed. |
 
 ## Current Weak Areas Identified
 
 | Area | Status |
 |---|---|
 | Article 13 pre-constitutional and post-constitutional laws | Basic understanding good; drill completed; needs later revision |
-| Article 14 reasonable classification | Basic application improving; needs final consolidation and drill |
-| Article 14 arbitrariness test | Basic concept understood; needs final consolidation and drill |
-| Differentiating Article 14 from Articles 15 and 16 | Clarified in notebook; needs recall drill |
-| Exam-ready language for Fundamental Rights | Improving; Article 12 and Article 13 refined |
+| Article 14 reasonable classification | Basic application good; final drill and MCQ completed; needs case-law memorisation |
+| Article 14 arbitrariness test | Basic concept understood; needs clean wording memorised |
+| Article 15(2) horizontal application | Needs revision: Article 15(2) may apply beyond State action in relation to specified public places/facilities |
+| Evidence/BSA Day 2 rhythm | Pending; must be completed before Day 2 closes |
 
-## Backlog Plan
+## Corrected Backlog Plan
 
 ### Tuesday — 12.05.2026
 
-The remaining morning backlog must be included in **Study Block 2** and completed before closing Day 2.
+The Day 1 Constitution backlog has been substantially absorbed. The remaining correction is that the weekly rhythm for Tuesday requires **Evidence/BSA + MCQs**.
 
-#### Study Block 2 mandatory backlog
+#### Completed Constitution work
 
-1. Article 14 final consolidation — equality before law and equal protection of laws.
-2. Reasonable classification final drill.
-3. Arbitrariness test final drill.
-4. Article 14 vs Article 15 quick distinction.
-5. Short drill + error-log update.
+1. Article 13 concept + drill.
+2. Article 14 final consolidation.
+3. Article 14 MCQs — 10/10.
+4. Article 14 mains skeleton.
+5. Article 15(1) and 15(2) initial reading/drill.
 
-#### Today’s syllabus must also be completed
+#### Pending before closing Day 2
 
-Do not push today’s planned syllabus merely because morning backlog exists. Complete the backlog first, then complete today’s syllabus in the remaining Block 2 / Block 3 time.
+1. Evidence/BSA mini-block.
+2. Evidence/BSA MCQ drill.
+3. Short Evidence/BSA note or notebook starter if time permits.
+4. Final Day 2 recap.
 
-If time becomes severely constrained due to court work, only the lowest-priority light revision may move to later; core Constitution work should remain protected.
+#### Moved to Day 3 light continuation if needed
+
+1. Article 15(3) to 15(6).
+2. Article 15 clean notebook update.
+3. Article 15 final consolidation.
 
 ## Next Study Target
 
-**Study Block 2 — Constitution: Finish Article 14 and complete Day 2 syllabus**
+**Study Block 2 Correction — Evidence/BSA + MCQs**
 
 Tasks:
 
-- Revise Article 13 in 5 minutes.
-- Consolidate Article 14.
-- Complete reasonable classification and arbitrariness drills.
+- Start Evidence/BSA with basic orientation: relevance, facts in issue, relevant facts.
+- Read the bare-act idea of relevance from Evidence/BSA.
+- Attempt 10 MCQs.
 - Record mistakes in error log.
-- Complete today’s planned syllabus before closing Day 2.
