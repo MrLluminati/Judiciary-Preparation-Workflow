@@ -18,6 +18,10 @@ Current flow:
 
 # Article 12 — Definition of State
 
+## Bare Act Text
+
+> **Article 12 — Definition.** In this Part, unless the context otherwise requires, “the State” includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.
+
 ## Priority
 
 **Priority 1 — Must master.**
@@ -163,6 +167,22 @@ Article 12 defines “State” broadly for Part III and covers governments, legi
 
 # Article 13 — Laws Inconsistent with Fundamental Rights
 
+## Bare Act Text
+
+> **Article 13 — Laws inconsistent with or in derogation of the fundamental rights.**
+>
+> **(1)** All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void.
+>
+> **(2)** The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void.
+>
+> **(3)** In this article, unless the context otherwise requires,—
+>
+> **(a)** “law” includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law;
+>
+> **(b)** “laws in force” includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas.
+>
+> **(4)** Nothing in this article shall apply to any amendment of this Constitution made under article 368.
+
 ## Priority
 
 **Priority 1 — Must master.**
@@ -281,6 +301,10 @@ Article 13 makes laws inconsistent with Fundamental Rights void to the extent of
 ---
 
 # Article 14 — Equality Before Law and Equal Protection of Laws
+
+## Bare Act Text
+
+> **Article 14 — Equality before law.** The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.
 
 ## Priority
 
