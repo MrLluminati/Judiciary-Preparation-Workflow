@@ -11,6 +11,7 @@ Current flow:
 3. Article 14 — Equality before law and equal protection of laws
 4. Reasonable classification
 5. Arbitrariness test
+6. Article 15 — Prohibition of discrimination
 
 ---
 
@@ -511,3 +512,186 @@ Answer structure:
 ## One-Line Revision
 
 Article 14 guarantees equality before law and equal protection of laws, permits reasonable classification, and prohibits arbitrary State action.
+
+---
+
+# Article 15 — Prohibition of Discrimination
+
+## Bare Act Text
+
+> **Article 15 — Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.**
+>
+> **(1)** The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.
+>
+> **(2)** No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to—
+>
+> **(a)** access to shops, public restaurants, hotels and places of public entertainment; or
+>
+> **(b)** the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
+>
+> **(3)** Nothing in this article shall prevent the State from making any special provision for women and children.
+>
+> **(4)** Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes.
+>
+> **(5)** Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30.
+>
+> **(6)** Nothing in this article or sub-clause (g) of clause (1) of article 19 or clause (2) of article 29 shall prevent the State from making,—
+>
+> **(a)** any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5); and
+>
+> **(b)** any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5) in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30, which in the case of reservation would be in addition to the existing reservations and subject to a maximum of ten per cent of the total seats in each category.
+>
+> **Explanation.** For the purposes of this article and article 16, “economically weaker sections” shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage.
+
+## Priority
+
+**Priority 1 — Must master.**
+
+Article 15 is a specific equality provision. It prohibits discrimination against citizens on specified grounds and also permits special provisions for protected or disadvantaged groups.
+
+## Bare Act Idea
+
+Article 15 has two broad parts:
+
+1. **Article 15(1) and 15(2):** prohibition of discrimination.
+2. **Article 15(3) to 15(6):** enabling provisions for special/affirmative measures.
+
+## Article 15(1) — Discrimination by State
+
+Article 15(1) prohibits the State from discriminating against any citizen on grounds only of:
+
+1. religion;
+2. race;
+3. caste;
+4. sex;
+5. place of birth;
+6. or any of them.
+
+## Meaning of “Grounds Only Of”
+
+“Grounds only of” means discrimination solely because of one or more of the listed grounds: religion, race, caste, sex, place of birth, or any of them.
+
+## Article 15(2) — Access to Public Places and Facilities
+
+Article 15(2) prohibits subjecting citizens to disability, liability, restriction, or condition on the listed grounds in relation to:
+
+1. shops;
+2. public restaurants;
+3. hotels;
+4. places of public entertainment;
+5. wells;
+6. tanks;
+7. bathing ghats;
+8. roads;
+9. places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
+
+Important: Article 15(2) is wider than Article 15(1) because it can apply in relation to access to specified public places/facilities and is not limited to State action alone.
+
+## Article 15(3) — Women and Children
+
+Article 15(3) allows the State to make special provisions for women and children.
+
+Examples:
+
+- maternity benefits;
+- protective laws for women;
+- child welfare schemes;
+- reservation or special facilities for women and children where constitutionally permissible.
+
+## Article 15(4) — SEBC, SC, ST
+
+Article 15(4) allows the State to make special provisions for the advancement of:
+
+1. socially and educationally backward classes of citizens;
+2. Scheduled Castes;
+3. Scheduled Tribes.
+
+## Article 15(5) — Admissions to Educational Institutions
+
+Article 15(5) allows the State to make special provisions by law for the advancement of SEBC, SC, and ST in relation to admission to educational institutions, including private aided or unaided institutions.
+
+Exception:
+
+Minority educational institutions under Article 30(1) are excluded.
+
+## Article 15(6) — EWS
+
+Article 15(6) allows the State to make special provisions for economically weaker sections of citizens other than the classes covered by Article 15(4) and Article 15(5).
+
+It also allows reservation in educational institutions for EWS, in addition to existing reservations, subject to a maximum of ten per cent of total seats in each category.
+
+## Important Case Laws
+
+### M.R. Balaji v. State of Mysore
+
+The Supreme Court discussed backward classes and reservation principles under Article 15(4).
+
+### State of Madras v. Champakam Dorairajan
+
+The decision led to the First Constitutional Amendment, which introduced Article 15(4).
+
+### Indra Sawhney v. Union of India
+
+Though primarily under Article 16, it is important for understanding backward class reservation and affirmative action principles.
+
+### Ashoka Kumar Thakur v. Union of India
+
+The Supreme Court considered the constitutional validity of Article 15(5) and reservation in educational institutions.
+
+### Janhit Abhiyan v. Union of India
+
+The Supreme Court upheld the validity of the 103rd Constitutional Amendment introducing EWS reservation under Articles 15(6) and 16(6).
+
+## Article 14 vs Article 15
+
+| Basis | Article 14 | Article 15 |
+|---|---|---|
+| Nature | General equality provision | Specific non-discrimination provision |
+| Beneficiary | Any person | Citizen |
+| Grounds | Broad equality, classification, arbitrariness | Religion, race, caste, sex, place of birth |
+| Special provisions | Reasonable classification allowed | Express enabling clauses under 15(3) to 15(6) |
+
+## Examples
+
+### Example 1 — Article 15(1)
+
+A State law denies a scholarship to citizens only because they belong to a particular religion.
+
+This violates Article 15(1).
+
+### Example 2 — Article 15(2)
+
+A public restaurant refuses entry to a citizen only because of caste.
+
+This violates Article 15(2).
+
+### Example 3 — Article 15(3)
+
+A law grants maternity benefits to women.
+
+This is permitted under Article 15(3).
+
+### Example 4 — Article 15(6)
+
+The State creates special educational reservation for EWS candidates within constitutional limits.
+
+This is permitted under Article 15(6).
+
+## Exam Answer Skeleton
+
+Question: Explain Article 15 of the Constitution.
+
+Answer structure:
+
+1. Article 15 is a specific equality provision for citizens.
+2. Article 15(1) prohibits State discrimination on grounds only of religion, race, caste, sex, place of birth, or any of them.
+3. Article 15(2) prohibits restriction of access to specified public places and facilities.
+4. Article 15(3) permits special provisions for women and children.
+5. Article 15(4) permits special provisions for SEBC, SC, and ST.
+6. Article 15(5) permits special provisions relating to admissions in educational institutions, except minority institutions.
+7. Article 15(6) permits EWS special provisions/reservation.
+8. Conclude that Article 15 combines non-discrimination with substantive equality.
+
+## One-Line Revision
+
+Article 15 prohibits discrimination against citizens on specified grounds while permitting special provisions for women, children, SEBC, SC, ST, and EWS to achieve substantive equality.
