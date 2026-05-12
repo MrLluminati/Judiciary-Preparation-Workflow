@@ -8,34 +8,76 @@ The workflow must remain realistic for a court-going advocate. The normal court-
 
 ## Operating Priority
 
-The two-page Wall Planner is the controlling study operating system.
+The preparation will follow a **one-bare-act-at-a-time primary study pattern**.
 
-When there is any conflict between a general roadmap suggestion and the Wall Planner’s weekly rhythm, the Wall Planner controls.
+The earlier pattern is preferred: complete one bare act substantially before picking up another bare act as the main subject. Alongside that, maintain constant revision, MCQs, PYQs, and mock tests.
 
 Use this hierarchy:
 
-1. Wall Planner weekly rhythm and daily subject direction.
-2. Existing backlog from previous day.
-3. Current day’s planned syllabus.
-4. Optional extra topic only if the first three are complete.
+1. Current active bare act as the main study subject.
+2. Revision ladder for previously studied topics.
+3. MCQs / PYQs / mocks for retention and exam practice.
+4. Secondary subject only as a light revision or MCQ block, not as a competing main subject.
+5. Sunday revision / mock / unavoidable backlog cleanup.
 
-Backlog must not erase the current day’s rhythm. It should be fitted into Study Block 2 or Study Block 3 where possible. Only unavoidable backlog should move to Sunday revision.
+The Wall Planner remains the base operating document, but the daily rhythm must be adapted to avoid unnecessary subject-switching. Its MCQ/PYQ/mock discipline should be preserved, while the main learning track should remain one bare act at a time.
 
-## Weekly Rhythm Control
+## Active Study Pattern
 
-The weekly rhythm must be checked before giving each day’s plan.
+### Main Rule
 
-| Weekday | Controlling rhythm |
-|---|---|
-| Monday | Constitution / core law foundation as per current week plan |
-| Tuesday | Evidence / BSA + MCQs |
-| Wednesday | BNS / offences + PYQs |
-| Thursday | Procedure / core law continuation as per wall planner |
-| Friday | Mixed revision / language / weak areas as per wall planner |
-| Saturday | Consolidation / MCQs / answer writing as per wall planner |
-| Sunday | Full revision + mock / mains answer + unavoidable backlog cleanup |
+Do not jump between multiple bare acts as full study subjects on consecutive days unless the active bare act has reached a planned checkpoint.
 
-Note: Where the exact Wall Planner wording is more specific than this table, follow the Wall Planner wording.
+Current active bare act:
+
+> Constitution of India
+
+Current flow:
+
+> Article 12 → Article 13 → Article 14 → Article 15 → Article 16 → Article 19 → Article 21 → Article 32 → Article 226 → other priority provisions.
+
+### What Counts as Completion of a Topic
+
+A topic is considered complete only when the following are done:
+
+1. bare act text read;
+2. plain-language understanding completed;
+3. definitions and ingredients/tests noted;
+4. important case laws added;
+5. examples/fact patterns practiced;
+6. 10 MCQs or one short mains skeleton attempted;
+7. error-log updated if required;
+8. clean notebook updated.
+
+### When to Move to Another Bare Act
+
+Move to another bare act as the main subject only after one of these:
+
+1. the current bare act is completed;
+2. a planned checkpoint is reached, such as Fundamental Rights completed in Constitution;
+3. a mock/PYQ analysis shows urgent weakness in another subject;
+4. court schedule requires a lighter subject for one day.
+
+## Revision and Testing Pattern
+
+Even while studying one bare act, testing must continue.
+
+### Daily
+
+- 10–20 MCQs from the active subject or recently studied topics.
+- 5-minute recall of yesterday’s topic.
+- Error-log review.
+
+### Every 3 Days
+
+- Mixed MCQs from already studied topics.
+- One short mains skeleton.
+
+### Weekly / Sunday
+
+- Full revision of the week’s topics.
+- One mock or two mains answers.
+- Backlog cleanup only if unavoidable.
 
 ## Daily Routine
 
@@ -45,14 +87,14 @@ Note: Where the exact Wall Planner wording is more specific than this table, fol
 | 5:30–5:45 AM | Freshen up | Basic preparation |
 | 5:45–6:15 AM | Shower | Prayer is only after shower |
 | 6:15–6:45 AM | Morning prayer | Mental discipline |
-| 6:45–8:15 AM | Study Block 1 | New topic + bare act |
+| 6:45–8:15 AM | Study Block 1 | Active bare act: new topic + bare act |
 | 8:15–9:00 AM | Breakfast + travel | Court preparation |
 | 9:00 AM–2/4 PM | Court work | Practice and livelihood |
 | Court gaps | Micro-revision | Flashcards, sections, MCQs |
 | After return | Lunch + rest | Recovery |
-| 5:30–7:30 PM | Study Block 2 | Revision + MCQs/PYQ + answer writing |
+| 5:30–7:30 PM | Study Block 2 | Active bare act revision + MCQs/PYQ + answer writing |
 | 7:30–8:00 PM | Dinner | Reset |
-| 8:00–9:00 PM | Study Block 3 | Hindi / English / GK / light revision |
+| 8:00–9:00 PM | Study Block 3 | Light revision / language / GK / backlog cleanup |
 | 9:00–9:30 PM | Recap | Error log + tomorrow target |
 | 10:00 PM | Sleep target | Consistency |
 
@@ -70,6 +112,7 @@ Note: Where the exact Wall Planner wording is more specific than this table, fol
 - Revise yesterday’s topic.
 - Solve 10–20 MCQs or write one mains answer skeleton.
 - Record every mistake in the error log.
+- Secondary subjects may be touched only through light MCQs or revision, not as a competing main subject.
 
 ### Study Block 3 — Light Finish
 
@@ -119,6 +162,7 @@ Use one notebook file per subject under `notes/`:
 The subject notebook must contain clean final notes only:
 
 - topic heading;
+- bare act text;
 - priority level;
 - bare-act idea;
 - definitions;
