@@ -6,6 +6,37 @@ The learner is a practicing lawyer in India preparing for the Bihar Judiciary Ex
 
 The workflow must remain realistic for a court-going advocate. The normal court-day target is **3.5 to 4 focused study hours**, not an unrealistic 8 to 10 hour plan.
 
+## Operating Priority
+
+The two-page Wall Planner is the controlling study operating system.
+
+When there is any conflict between a general roadmap suggestion and the Wall Planner’s weekly rhythm, the Wall Planner controls.
+
+Use this hierarchy:
+
+1. Wall Planner weekly rhythm and daily subject direction.
+2. Existing backlog from previous day.
+3. Current day’s planned syllabus.
+4. Optional extra topic only if the first three are complete.
+
+Backlog must not erase the current day’s rhythm. It should be fitted into Study Block 2 or Study Block 3 where possible. Only unavoidable backlog should move to Sunday revision.
+
+## Weekly Rhythm Control
+
+The weekly rhythm must be checked before giving each day’s plan.
+
+| Weekday | Controlling rhythm |
+|---|---|
+| Monday | Constitution / core law foundation as per current week plan |
+| Tuesday | Evidence / BSA + MCQs |
+| Wednesday | BNS / offences + PYQs |
+| Thursday | Procedure / core law continuation as per wall planner |
+| Friday | Mixed revision / language / weak areas as per wall planner |
+| Saturday | Consolidation / MCQs / answer writing as per wall planner |
+| Sunday | Full revision + mock / mains answer + unavoidable backlog cleanup |
+
+Note: Where the exact Wall Planner wording is more specific than this table, follow the Wall Planner wording.
+
 ## Daily Routine
 
 | Time | Study / Life Block | Purpose |
