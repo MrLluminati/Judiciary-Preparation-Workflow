@@ -2,16 +2,17 @@
 
 ## Purpose of This Notebook
 
-This notebook contains clean study notes only. It does not record Q&A discussion. It is maintained in the same flow in which the topics are studied on a daily basis.
+This notebook contains clean final study notes only. It does not record full Q&A discussions, learner draft answers, or correction dialogue. Those are maintained separately in the `practice/` folder.
 
-Current flow:
+## Current Flow
 
-1. Article 12 — State
+1. Article 12 — Definition of State
 2. Article 13 — Laws inconsistent with Fundamental Rights
 3. Article 14 — Equality before law and equal protection of laws
 4. Reasonable classification
 5. Arbitrariness test
 6. Article 15 — Prohibition of discrimination
+7. Article 16 — Equality of opportunity in public employment
 
 ---
 
@@ -59,7 +60,7 @@ Examples:
 - Union Ministries;
 - Parliament of India.
 
-### 2. Government and Legislature of each State
+### 2. Government and Legislature of Each State
 
 Includes State executive and State legislature.
 
@@ -86,7 +87,7 @@ This is the most important and litigation-heavy part of Article 12.
 
 “Other authorities” may include statutory bodies, corporations, agencies, instrumentalities, or bodies under deep and pervasive governmental control or performing public functions.
 
-## Tests for Other Authorities
+## Tests for “Other Authorities”
 
 Courts may consider:
 
@@ -146,10 +147,6 @@ Ordinarily, it is not State under Article 12 because a private shop is not a gov
 
 ## Exam Answer Skeleton
 
-Question: Explain the meaning of “State” under Article 12.
-
-Answer structure:
-
 1. Article 12 defines State for Part III.
 2. It is an inclusive definition.
 3. It includes Union, States, local authorities, and other authorities.
@@ -160,7 +157,7 @@ Answer structure:
 
 ## One-Line Revision
 
-Article 12 defines “State” broadly for Part III and covers governments, legislatures, local authorities, and other government-controlled/public authorities against whom Fundamental Rights may be enforced.
+Article 12 defines “State” broadly for Part III and covers governments, legislatures, local authorities, and other government-controlled or public authorities against whom Fundamental Rights may be enforced.
 
 ---
 
@@ -259,7 +256,7 @@ The Supreme Court held that constitutional amendments were “law” under Artic
 
 ### Kesavananda Bharati v. State of Kerala
 
-The Parliament may amend Fundamental Rights, but it cannot alter the basic structure of the Constitution.
+Parliament may amend Fundamental Rights, but it cannot alter the basic structure of the Constitution.
 
 ## Examples
 
@@ -273,7 +270,7 @@ After the Constitution, such a law becomes void to the extent it violates equali
 
 A new State law says only men can be admitted to government schools.
 
-Such a law may violate Articles 14, 15, and education-related protections, and would be void to the extent of contravention.
+Such a law may violate Articles 14, 15, and education-related protections and would be void to the extent of contravention.
 
 ### Example 3
 
@@ -282,10 +279,6 @@ A statute contains 20 provisions. Only 2 provisions violate Fundamental Rights a
 Only the invalid provisions may be struck down. The rest may survive under the doctrine of severability.
 
 ## Exam Answer Skeleton
-
-Question: Explain Article 13 of the Constitution.
-
-Answer structure:
 
 1. Article 13 protects Fundamental Rights from inconsistent laws.
 2. Article 13(1) deals with pre-Constitution laws.
@@ -496,10 +489,6 @@ Article 14 is a general equality provision and applies to any person. Article 15
 
 ## Exam Answer Skeleton — Article 14
 
-Question: Explain Article 14 and the doctrine of reasonable classification.
-
-Answer structure:
-
 1. Article 14 guarantees equality before law and equal protection of laws.
 2. It applies to any person.
 3. Equality before law is negative; equal protection is positive.
@@ -554,7 +543,7 @@ Article 15 is a specific equality provision. It prohibits discrimination against
 Article 15 has two broad parts:
 
 1. **Article 15(1) and 15(2):** prohibition of discrimination.
-2. **Article 15(3) to 15(6):** enabling provisions for special/affirmative measures.
+2. **Article 15(3) to 15(6):** enabling provisions for special or affirmative measures.
 
 ## Article 15(1) — Discrimination by State
 
@@ -622,13 +611,13 @@ It also allows reservation in educational institutions for EWS, in addition to e
 
 ## Important Case Laws
 
-### M.R. Balaji v. State of Mysore
-
-The Supreme Court discussed backward classes and reservation principles under Article 15(4).
-
 ### State of Madras v. Champakam Dorairajan
 
 The decision led to the First Constitutional Amendment, which introduced Article 15(4).
+
+### M.R. Balaji v. State of Mysore
+
+The Supreme Court discussed backward classes and reservation principles under Article 15(4).
 
 ### Indra Sawhney v. Union of India
 
@@ -679,10 +668,6 @@ This is permitted under Article 15(6).
 
 ## Exam Answer Skeleton
 
-Question: Explain Article 15 of the Constitution.
-
-Answer structure:
-
 1. Article 15 is a specific equality provision for citizens.
 2. Article 15(1) prohibits State discrimination on grounds only of religion, race, caste, sex, place of birth, or any of them.
 3. Article 15(2) prohibits restriction of access to specified public places and facilities.
@@ -695,3 +680,206 @@ Answer structure:
 ## One-Line Revision
 
 Article 15 prohibits discrimination against citizens on specified grounds while permitting special provisions for women, children, SEBC, SC, ST, and EWS to achieve substantive equality.
+
+---
+
+# Week 1 — Day 3 — Wednesday — 13.05.2026
+
+# Article 16 — Equality of Opportunity in Public Employment
+
+## Bare Act Text
+
+> **Article 16 — Equality of opportunity in matters of public employment.**
+>
+> **(1)** There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.
+>
+> **(2)** No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them, be ineligible for, or discriminated against in respect of, any employment or office under the State.
+>
+> **(3)** Nothing in this article shall prevent Parliament from making any law prescribing, in regard to a class or classes of employment or appointment to an office under the Government of, or any local or other authority within, a State or Union territory, any requirement as to residence within that State or Union territory prior to such employment or appointment.
+>
+> **(4)** Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State.
+>
+> **(4A)** Nothing in this article shall prevent the State from making any provision for reservation in matters of promotion, with consequential seniority, to any class or classes of posts in the services under the State in favour of the Scheduled Castes and the Scheduled Tribes which, in the opinion of the State, are not adequately represented in the services under the State.
+>
+> **(4B)** Nothing in this article shall prevent the State from considering any unfilled vacancies of a year which are reserved for being filled up in that year in accordance with any provision for reservation made under clause (4) or clause (4A) as a separate class of vacancies to be filled up in any succeeding year or years and such class of vacancies shall not be considered together with the vacancies of the year in which they are being filled up for determining the ceiling of fifty per cent reservation on total number of vacancies of that year.
+>
+> **(5)** Nothing in this article shall affect the operation of any law which provides that the incumbent of an office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination.
+>
+> **(6)** Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent of the posts in each category.
+
+## Priority
+
+**Priority 1 — Must master.**
+
+Article 16 is the specific equality provision relating to public employment. It applies the principle of equality to employment or appointment under the State.
+
+## Bare Act Idea
+
+Article 16 has two main parts:
+
+1. **Article 16(1) and 16(2):** general rule of equality and non-discrimination in public employment.
+2. **Article 16(3) to 16(6):** exceptions/enabling provisions relating to residence, reservation, religious institutions, and EWS.
+
+## Article 16(1) — Equality of Opportunity
+
+Article 16(1) guarantees equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.
+
+Important: Article 16(1) is not limited to government examinations. It covers the broader public employment process, including:
+
+- eligibility;
+- recruitment;
+- selection;
+- appointment;
+- promotion;
+- employment-related matters.
+
+## Article 16(2) — Prohibited Grounds
+
+Article 16(2) prohibits a citizen from being made ineligible for, or discriminated against in respect of, employment or office under the State on grounds only of:
+
+1. religion;
+2. race;
+3. caste;
+4. sex;
+5. descent;
+6. place of birth;
+7. residence;
+8. or any of them.
+
+Important additions compared to Article 15:
+
+- descent;
+- residence.
+
+## Meaning of “Office Under the State”
+
+“Office under the State” means a post, office, or employment under the government or a State authority. It connects with the concept of “State” under Article 12.
+
+## Meaning of “Ineligible For”
+
+“Ineligible for” means a citizen cannot be barred from applying, being considered, or being appointed solely on one or more of the prohibited grounds.
+
+Example:
+
+A rule saying persons of a particular caste cannot apply for a State post violates Article 16(2).
+
+## Meaning of “Discriminated Against”
+
+“Discriminated against” means unfair or unequal treatment in public employment matters on the prohibited grounds.
+
+Example:
+
+A qualified candidate is rejected only because of residence or caste. This may violate Article 16(2).
+
+## Article 16(3) — Residence Requirement by Parliament
+
+Article 16(3) allows Parliament to make a law prescribing residence requirement for certain classes of employment or appointment within a State or Union territory.
+
+Important: This power belongs to Parliament, not to an ordinary State executive instruction.
+
+## Article 16(4) — Reservation for Backward Class
+
+Article 16(4) allows the State to make provision for reservation of appointments or posts in favour of any backward class of citizens which, in the opinion of the State, is not adequately represented in State services.
+
+Key ingredients:
+
+1. backward class of citizens;
+2. inadequate representation in State services;
+3. State opinion regarding such inadequate representation.
+
+## Article 16(4A) — Reservation in Promotion for SC/ST
+
+Article 16(4A) permits reservation in matters of promotion, with consequential seniority, for Scheduled Castes and Scheduled Tribes which, in the opinion of the State, are not adequately represented in State services.
+
+## Article 16(4B) — Carry-Forward Vacancies
+
+Article 16(4B) deals with unfilled reserved vacancies carried forward to succeeding years and their treatment as a separate class of vacancies for the purpose of the fifty per cent ceiling.
+
+## Article 16(5) — Religious or Denominational Institutions
+
+Article 16(5) protects laws requiring that a person holding an office connected with a religious or denominational institution, or a member of its governing body, should profess a particular religion or belong to a particular denomination.
+
+## Article 16(6) — EWS Reservation in Public Employment
+
+Article 16(6) allows reservation of appointments or posts in favour of economically weaker sections of citizens other than the classes mentioned in Article 16(4), in addition to existing reservation and subject to a maximum of ten per cent of posts in each category.
+
+## Important Case Laws
+
+### Indra Sawhney v. Union of India
+
+The Supreme Court upheld reservation for backward classes and discussed important principles such as backward class identification, creamy layer, and the fifty per cent ceiling.
+
+### M. Nagaraj v. Union of India
+
+The Supreme Court considered reservation in promotion and held that the State must collect quantifiable data relating to backwardness, inadequate representation, and administrative efficiency before granting promotion reservation.
+
+### Jarnail Singh v. Lachhmi Narain Gupta
+
+The Court modified the Nagaraj position by holding that the State need not collect quantifiable data to prove backwardness of SC/ST for promotion reservation, though inadequate representation and administrative efficiency remain relevant.
+
+### Janhit Abhiyan v. Union of India
+
+The Supreme Court upheld the constitutional validity of EWS reservation introduced through the 103rd Constitutional Amendment, including Article 16(6).
+
+## Article 14 vs Article 15 vs Article 16
+
+| Basis | Article 14 | Article 15 | Article 16 |
+|---|---|---|---|
+| Nature | General equality provision | Specific non-discrimination provision | Public employment equality provision |
+| Beneficiary | Any person | Citizen | Citizen |
+| Main field | General equality | General discrimination | Employment or appointment under State |
+| Grounds | Broad equality, classification, arbitrariness | Religion, race, caste, sex, place of birth | Religion, race, caste, sex, descent, place of birth, residence |
+| Special idea | Reasonable classification + non-arbitrariness | Special provisions for women, children, SEBC, SC, ST, EWS | Reservation/residence exceptions in public employment |
+
+## Examples
+
+### Example 1 — Article 16(1)
+
+A State recruitment process gives all eligible candidates equal opportunity to apply and compete.
+
+This is consistent with Article 16(1).
+
+### Example 2 — Article 16(2)
+
+A government job notification says persons from a particular caste cannot apply.
+
+This violates Article 16(2).
+
+### Example 3 — Article 16(3)
+
+Parliament makes a law prescribing residence requirement for certain local posts in a State.
+
+This may be permitted under Article 16(3).
+
+### Example 4 — Article 16(4)
+
+The State provides reservation in public employment for a backward class that is not adequately represented in State services.
+
+This may be permitted under Article 16(4).
+
+## Exam Answer Skeleton — Article 16
+
+1. Article 16 guarantees equality of opportunity in public employment.
+2. It applies to citizens.
+3. Article 16(1) guarantees equality in matters of employment or appointment to any office under the State.
+4. Article 16(2) prohibits discrimination on grounds only of religion, race, caste, sex, descent, place of birth, residence, or any of them.
+5. Article 16(3) allows Parliament to prescribe residence requirements in certain cases.
+6. Article 16(4), 16(4A), and 16(4B) deal with reservation in public employment and promotion/carry-forward vacancies.
+7. Article 16(5) deals with religious or denominational institutions.
+8. Article 16(6) deals with EWS reservation in public employment.
+9. Conclude that Article 16 is a specific application of equality in State employment.
+
+## Exam Answer Skeleton — Relationship Between Articles 14, 15 and 16
+
+1. Articles 14, 15 and 16 form part of the constitutional scheme of equality.
+2. Article 14 is the general equality provision applicable to any person.
+3. Article 15 is a specific non-discrimination provision applicable to citizens.
+4. Article 16 is a specific equality provision applicable to citizens in public employment.
+5. Article 14 permits reasonable classification and prohibits arbitrariness.
+6. Article 15 prohibits discrimination on specified grounds and permits affirmative measures.
+7. Article 16 applies equality and non-discrimination principles to employment or appointment under the State.
+8. Conclude that together, these provisions form the equality code.
+
+## One-Line Revision
+
+Article 16 guarantees equality of opportunity for citizens in public employment and prohibits discrimination in State employment on specified grounds, while permitting constitutionally valid reservations and exceptions.
