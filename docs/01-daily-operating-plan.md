@@ -33,7 +33,7 @@ The Wall Planner controls the roadmap and priority map. Daily teaching may be ad
 | 5:30–7:30 PM | Study Block 2 | Revision + MCQs / PYQ / answer writing |
 | 7:30–8:00 PM | Dinner | Reset |
 | 8:00–9:00 PM | Study Block 3 | Language / GK / light revision |
-| 9:00–9:30 PM | Recap | Error log + next-day plan |
+| 9:00–9:30 PM | Documentation Block / recap | Error log + notes + dashboard + next-day plan |
 | 10:00 PM | Sleep target | Consistency |
 
 ## Study Block Planning Rule
@@ -51,6 +51,32 @@ For every block, maintain these columns:
 | Status | Not Started / In Progress / Closed / Carried Forward |
 
 This distinguishes real progress from backlog absorption.
+
+## Documentation Block Rule
+
+Documentation work is treated as a separate study-block type, not as next-day substantive study backlog.
+
+Documentation work includes:
+
+1. FAQ-style note consolidation;
+2. subject notebook cleanup;
+3. practice-file updates;
+4. progress tracker updates;
+5. error-log entries;
+6. Google Sheet dashboard updates;
+7. roadmap, milestone, and progress-bar maintenance;
+8. GitHub repository organization.
+
+Documentation work should be consolidated at the closure of each study block or in a dedicated end-of-day Documentation Block.
+
+Documentation backlog must be marked separately from academic/topic backlog.
+
+Example:
+
+- Academic backlog: Article 16(5), Article 16(6), consolidation drill.
+- Documentation backlog: FAQ notes, dashboard upgrade, roadmap visual maintenance.
+
+Documentation backlog should not be pushed into the next day's core study plan unless the user expressly asks to spend a study block on documentation.
 
 ## Daily Minimum Targets
 
