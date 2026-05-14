@@ -220,6 +220,19 @@ Every topic must follow this sequence:
 6. Revise in 24 hours.
 7. Revise again in 7 days.
 
+## Teaching and Drill Protocol
+
+For every new provision or concept, follow this order:
+
+1. Explain the provision/concept.
+2. Pause and ask whether the user has doubts.
+3. If the user has doubts, answer them fully.
+4. When the user says to move forward or confirms there are no doubts, then give the quick drill.
+5. The drill should follow the planned learning pattern and should not be casually modified only because a side discussion occurred.
+6. However, if the discussion directly matches the planned concept, it may be reflected in the drill.
+
+This avoids rushing into drills before conceptual doubts are cleared.
+
 ## Wall Rules
 
 1. Priority 1 before anything else.
