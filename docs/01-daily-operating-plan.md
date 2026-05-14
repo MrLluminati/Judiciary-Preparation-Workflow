@@ -239,3 +239,36 @@ At the end of each completed study block, update:
 5. Google Sheet dashboard milestones.
 
 Do not interrupt active study to update documentation unless needed to prevent data loss.
+
+## FAQ / Doubt Recording Rule
+
+Whenever an important conceptual doubt, discussion, practical example, or exam-relevant clarification arises during study, record it in the relevant subject notebook in a clean **FAQ-style format**.
+
+This applies to:
+
+1. doubts expressly asked by the user;
+2. related questions likely to arise in future;
+3. practical courtroom/service-law examples that make the concept clearer;
+4. judiciary-exam answer-writing clarifications;
+5. comparisons between similar provisions;
+6. common traps, misconceptions, and terminology corrections.
+
+The FAQ section should not copy the raw conversation. It should convert the discussion into polished notes, such as:
+
+- question;
+- short answer;
+- detailed explanation;
+- example;
+- exam-safe memory line.
+
+Example format:
+
+```markdown
+## FAQ / Concept Clarifications
+
+### Q1. Does Article 16(4A) create automatic promotion for SC/ST employees?
+
+No. Article 16(4A) is an enabling provision. It permits the State to provide reservation in promotion for SC/ST where constitutional conditions are satisfied, but it does not automatically promote every SC/ST employee.
+```
+
+This rule applies prospectively and also to important prior doubts already discussed during the active subject block.
