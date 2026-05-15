@@ -10,8 +10,8 @@
 | Current Week | Week 1 |
 | Current Active Bare Act | Constitution of India |
 | Current Topic | Fundamental Rights |
-| Current Provisions | Articles 12, 13, 14, 15 completed at basic level; Article 16(1)–16(4B) covered; Article 16(5)–16(6) next |
-| Current Ladder Status | Day 4 closed for study; Article 16(5), Article 16(6), and Article 16 consolidation moved to Day 5 backlog slot |
+| Current Provisions | Articles 12, 13, 14, 15 and 16 completed at basic level; Article 17 and Article 18 next |
+| Current Ladder Status | Day 5 Study Block 1 closed; Article 16 fully completed at basic level |
 
 ## Daily Progress Log
 
@@ -22,6 +22,7 @@
 | Day 2 | 2026-05-12 | Constitution: Articles 13, 14, and 15 | Article 12 revision; Article 13 reading and drill | Article 14 final drill; Article 14 MCQ 10/10; Article 14 mains skeleton; Article 15(1), 15(2), 15(3)–15(6) drills | Wrap-up and documentation | Closed | One-bare-act-at-a-time pattern confirmed. Article 15 basic structure completed; case-law memorisation pending. |
 | Day 3 | 2026-05-13 | Constitution: Article 15 revision + Article 16(1)–16(2) | Article 15 revision micro-drill completed; Article 16 terminology focus completed; Article 16(1)–16(2) initial answer completed; Articles 14/15/16 comparison completed | Article 16 consolidation completed; Article 16 short drill completed; Articles 14–16 MCQ drill 10/10; mains skeleton on Articles 14, 15 and 16 completed; error-log updated | Article 14 case-law revision; Article 15 clause-table revision; Article 16(2) grounds revision; equality-code conclusion line revised | Closed | Day 3 closed. Study work completed. Article 16 clean notebook consolidation completed later. |
 | Day 4 | 2026-05-14 | Constitution: Article 16(3)–16(4B) | 5-minute recall of Article 16(1)–16(2); Article 16(3) residence requirement; Article 16(4) reservation for backward classes; Article 16(4) research paper idea saved | Article 16(4A) reservation in promotion; consequential seniority; promotional roster; judicial service examples; State criteria for reservation in promotion; Article 16(4B) carry-forward vacancies; upper-limit doubt; Article 16(4B) drill corrected | Documentation sync; Article 16(4A) research/publication idea saved; teaching/drill protocol updated; dashboard cleanup and visuals improved during block diversion | Closed | Article 16(4A) concept clear. Article 16(4B) concept clear. Correction: Article 16(4B) connects with both Article 16(4) and Article 16(4A). Carry forward Article 16(5), Article 16(6), and consolidation drill. |
+| Day 5 | 2026-05-15 | Constitution: Article 16 completion | Article 16 recall; Article 16(5) religious/denominational institution exception; Article 16(6) EWS reservation in public employment; EWS certificate doubts; Article 16 consolidation drill completed | Planned: Article 17 and Article 18 | Planned: Article 19 overview/light revision if energy permits | In Progress | Block 1 closed. Article 16 completed at basic level. Corrections: 16(1) applies to all citizens, not only inadequately represented citizens; 16(3) is residence requirement by Parliament, not reservation; 16(4B) deals with unfilled reserved vacancies, not unreserved vacancies. |
 
 ## Current Weak Areas Identified
 
@@ -32,11 +33,13 @@
 | Article 14 arbitrariness wording | Needs clean line memorised: State action must be fair, reasonable, non-arbitrary, and based on objective criteria |
 | Article 15(2) horizontal application | Revised on Day 3; keep in weekly revision |
 | Article 15 case laws | Added to notebook; needs memorisation later |
-| Article 16(1) scope | Corrected: Article 16(1) is broader than government exams and covers matters relating to employment or appointment to any office under the State |
-| Article 16(2) grounds | Recall good; exact order should remain in daily revision |
-| Article 16(4) ingredients | Improved but still revise: backward class of citizens + not adequately represented + services under the State / opinion of State |
+| Article 16(1) scope | Corrected again: Article 16(1) gives equality of opportunity to all citizens in matters relating to employment or appointment; do not limit it to inadequately represented citizens |
+| Article 16(3) wording | Corrected: Parliament may prescribe residence requirement; avoid saying reservation under Article 16(3) |
+| Article 16(4) ingredients | Improved but revise exact phrase: backward class of citizens + in the opinion of the State not adequately represented + services under the State |
 | Article 16(4A) consequential seniority | Concept clear through example; preserve FAQ note for revision |
-| Article 16(4B) scope | Corrected: connected with both Article 16(4) and Article 16(4A) |
+| Article 16(4B) scope | Corrected: deals with unfilled reserved vacancies under Article 16(4) or Article 16(4A), not unreserved vacancies |
+| Article 16(5) scope | Concept clear; remember it applies to offices connected with religious/denominational institutions, not every ordinary job in such institution |
+| Article 16(6) EWS | Concept clear; remember EWS certificate is income/asset based for relevant period, not permanent like date of birth |
 | Mains conclusion writing | Formula taught and revised: Article 14 broad equality + Article 15 specific non-discrimination + Article 16 employment equality = equality code |
 
 ## Day 4 — Study Block 1 Status
@@ -78,14 +81,38 @@ Completed in Block 2:
 10. Doubt on whether Article 16(4B) has fixed numerical upper limit answered.
 11. Article 16(4B) drill completed and corrected.
 
-Carry forward to Day 5 backlog slot:
+Documentation Block completed after Day 4:
 
-1. Article 16(5) — religious/denominational institution exception.
-2. Article 16(6) — EWS reservation in public employment.
-3. Article 16 consolidation drill.
-4. FAQ-style Article 16(4A)/(4B) notes to be preserved in Constitution notes.
-5. End-of-day dashboard upgrade task: daily milestone breakdown, weekly roadmap, monthly roadmap, and progress-bar mechanics in Google Sheet.
+1. FAQ-style Article 16(4A)/(4B) notes saved:
+   `notes/constitution/article-16-faq-concept-clarifications.md`
+2. Dashboard upgraded with Daily Milestones, Weekly Roadmap, Monthly Roadmap, Progress Logic, and Visuals.
+
+## Day 5 — Study Block 1 Status
+
+Completed in Block 1:
+
+1. Article 16(1) to 16(4B) quick recall.
+2. Article 16(5) — religious/denominational institution exception.
+3. Article 16(5) drill and correction.
+4. Article 16(6) — EWS reservation in public employment.
+5. Doubts on EWS definition, Income and Asset Certificate, and non-permanent nature of EWS certificate.
+6. Article 16(6) drill.
+7. Article 16 full consolidation drill.
+
+Important corrections from consolidation:
+
+1. Article 16(1) applies to all citizens in matters relating to employment or appointment; do not restrict it to inadequately represented citizens.
+2. Article 16(3) allows Parliament to prescribe residence requirement for certain employment/appointment; do not call it reservation.
+3. Article 16(4A) should be written as Article 16(4A), not Article 16(4).
+4. Article 16(4B) deals with unfilled reserved vacancies, not unreserved vacancies.
+5. Article 16(5) is an exception for offices connected with religious or denominational institutions, not every ordinary vacancy in such institution.
+6. Article 16 as a whole should be remembered as equality of opportunity in public employment, not only reservation.
+
+Next Academic Target:
+
+1. Article 17 — abolition of untouchability.
+2. Article 18 — abolition of titles.
 
 ## Next Study Target
 
-**Day 5 — Start with Article 16(5), Article 16(6), and Article 16 consolidation before moving to Article 17 and Article 18.**
+**Day 5 — Study Block 2: Article 17 and Article 18.**
