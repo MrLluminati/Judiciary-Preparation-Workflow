@@ -11,7 +11,7 @@
 | Current Active Bare Act | Constitution of India |
 | Current Topic | Fundamental Rights |
 | Current Provisions | Articles 12, 13, 14, 15 and 16 completed at basic level; Article 17 and Article 18 next |
-| Current Ladder Status | Day 5 Study Block 1 closed; Article 16 fully completed at basic level |
+| Current Ladder Status | Day 5 closed early after Study Block 1; Article 17, Article 18, and Article 19 overview carried forward to next study day |
 
 ## Daily Progress Log
 
@@ -22,7 +22,7 @@
 | Day 2 | 2026-05-12 | Constitution: Articles 13, 14, and 15 | Article 12 revision; Article 13 reading and drill | Article 14 final drill; Article 14 MCQ 10/10; Article 14 mains skeleton; Article 15(1), 15(2), 15(3)–15(6) drills | Wrap-up and documentation | Closed | One-bare-act-at-a-time pattern confirmed. Article 15 basic structure completed; case-law memorisation pending. |
 | Day 3 | 2026-05-13 | Constitution: Article 15 revision + Article 16(1)–16(2) | Article 15 revision micro-drill completed; Article 16 terminology focus completed; Article 16(1)–16(2) initial answer completed; Articles 14/15/16 comparison completed | Article 16 consolidation completed; Article 16 short drill completed; Articles 14–16 MCQ drill 10/10; mains skeleton on Articles 14, 15 and 16 completed; error-log updated | Article 14 case-law revision; Article 15 clause-table revision; Article 16(2) grounds revision; equality-code conclusion line revised | Closed | Day 3 closed. Study work completed. Article 16 clean notebook consolidation completed later. |
 | Day 4 | 2026-05-14 | Constitution: Article 16(3)–16(4B) | 5-minute recall of Article 16(1)–16(2); Article 16(3) residence requirement; Article 16(4) reservation for backward classes; Article 16(4) research paper idea saved | Article 16(4A) reservation in promotion; consequential seniority; promotional roster; judicial service examples; State criteria for reservation in promotion; Article 16(4B) carry-forward vacancies; upper-limit doubt; Article 16(4B) drill corrected | Documentation sync; Article 16(4A) research/publication idea saved; teaching/drill protocol updated; dashboard cleanup and visuals improved during block diversion | Closed | Article 16(4A) concept clear. Article 16(4B) concept clear. Correction: Article 16(4B) connects with both Article 16(4) and Article 16(4A). Carry forward Article 16(5), Article 16(6), and consolidation drill. |
-| Day 5 | 2026-05-15 | Constitution: Article 16 completion | Article 16 recall; Article 16(5) religious/denominational institution exception; Article 16(6) EWS reservation in public employment; EWS certificate doubts; Article 16 consolidation drill completed | Planned: Article 17 and Article 18 | Planned: Article 19 overview/light revision if energy permits | In Progress | Block 1 closed. Article 16 completed at basic level. Corrections: 16(1) applies to all citizens, not only inadequately represented citizens; 16(3) is residence requirement by Parliament, not reservation; 16(4B) deals with unfilled reserved vacancies, not unreserved vacancies. |
+| Day 5 | 2026-05-15 | Constitution: Article 16 completion | Article 16 recall; Article 16(5) religious/denominational institution exception; Article 16(6) EWS reservation in public employment; EWS certificate doubts; Article 16 consolidation drill completed | Not attempted | Not attempted | Closed early | Article 16 completed at basic level. Academic backlog for next study day: Article 17, Article 18, Article 19 overview. Corrections: 16(1) applies to all citizens; 16(3) is residence requirement by Parliament, not reservation; 16(4B) deals with unfilled reserved vacancies, not unreserved vacancies. |
 
 ## Current Weak Areas Identified
 
@@ -108,11 +108,14 @@ Important corrections from consolidation:
 5. Article 16(5) is an exception for offices connected with religious or denominational institutions, not every ordinary vacancy in such institution.
 6. Article 16 as a whole should be remembered as equality of opportunity in public employment, not only reservation.
 
-Next Academic Target:
+Day 5 closed early after Block 1.
+
+Academic carry-forward to next study day:
 
 1. Article 17 — abolition of untouchability.
 2. Article 18 — abolition of titles.
+3. Article 19 overview — six freedoms and restrictions, if time permits.
 
 ## Next Study Target
 
-**Day 5 — Study Block 2: Article 17 and Article 18.**
+**Next study day: Article 17 and Article 18 first, then Article 19 overview if time permits.**
