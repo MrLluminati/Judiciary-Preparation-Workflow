@@ -71,7 +71,7 @@ The answer depends on:
 5. APAR/ACR, integrity, suitability, or departmental criteria;
 6. applicable roster and service rules.
 
-If the vacancy is an SC/ST reserved roster point and the SC/ST officer is eligible, the SC/ST officer may be considered/promoted against that reserved vacancy.
+If the vacancy is an SC/ST reserved roster point and the SC/ST officer is eligible, the SC/ST officer may be considered/promoted against the reserved vacancy.
 
 If the vacancy is unreserved, all eligible officers compete according to ordinary promotion rules.
 
@@ -248,22 +248,150 @@ When an eligible SC/ST officer becomes available, the carried-forward vacancy ma
 
 ---
 
+# Article 16(5) — Religious / Denominational Institution Exception
+
+## Q15. What does Article 16(5) protect?
+
+Article 16(5) protects laws which require that the holder of an office connected with the affairs of a religious or denominational institution must belong to a particular religion or denomination.
+
+It is an exception to the general non-discrimination rule under Article 16.
+
+### Memory Line
+
+Article 16(5) = religious or denominational office exception.
+
+---
+
+## Q16. Is Article 16(5) applicable to every vacancy in a religious institution?
+
+No.
+
+Article 16(5) should be understood narrowly. It protects offices connected with the religious or denominational affairs of the institution. It does not automatically cover every ordinary administrative or secular job in a religious institution.
+
+### Example
+
+A law may require that the priest or archaka of a Hindu temple must profess the Hindu religion or belong to a relevant denomination connected with that temple.
+
+But an ordinary secular post, such as a clerical or administrative job, may not automatically get the same protection merely because the institution is religious.
+
+---
+
+## Q17. Article 16(5) is an exception to which general rule?
+
+Article 16(5) is an exception to the general rule of equality of opportunity and non-discrimination in public employment, especially non-discrimination on the ground of religion.
+
+### Exam-Safe Point
+
+Article 16(5) does not destroy Article 16. It creates a limited religious/denominational exception for offices connected with the affairs of such institutions.
+
+---
+
+# Article 16(6) — EWS Reservation in Public Employment
+
+## Q18. What does Article 16(6) deal with?
+
+Article 16(6) deals with reservation in appointments or posts in favour of **Economically Weaker Sections of citizens**, other than the classes covered under Article 16(4).
+
+It relates to **public employment**, not educational institutions.
+
+### Memory Line
+
+Article 16(6) = EWS reservation in public employment up to 10%, excluding Article 16(4) classes.
+
+---
+
+## Q19. What is the difference between Article 15(6) and Article 16(6)?
+
+Article 15(6) deals with EWS reservation in educational institutions.
+
+Article 16(6) deals with EWS reservation in public employment, meaning appointments or posts under the State.
+
+### Memory Line
+
+Article 15(6) = EWS in education.
+
+Article 16(6) = EWS in public employment.
+
+---
+
+## Q20. What is the maximum percentage of EWS reservation under Article 16(6)?
+
+Article 16(6) permits reservation for EWS up to **10%** in appointments or posts, in addition to existing reservation.
+
+This 10% reservation is for economically weaker citizens other than those covered under Article 16(4).
+
+---
+
+## Q21. What is Economically Weaker Section?
+
+Economically Weaker Section refers to economically weaker citizens who are not covered by existing reservation categories under Article 16(4), such as backward classes covered by that provision.
+
+For practical recruitment purposes, the detailed EWS criteria are prescribed by government rules or notifications. Commonly, the Central framework uses family income and asset criteria, including gross family income below the prescribed limit and prescribed property/asset restrictions.
+
+### Exam-Safe Point
+
+The Constitution permits EWS reservation through Article 16(6), but detailed income, asset, family, certificate, and authority criteria are prescribed through rules/notifications.
+
+---
+
+## Q22. How is EWS status proved?
+
+EWS status is usually proved through an **Income and Asset Certificate** issued by the competent authority in the prescribed format.
+
+It is not based on mere self-declaration.
+
+The certificate is normally issued by notified revenue or administrative authorities such as DM/ADM/SDM/Tehsildar or equivalent competent authority, depending on the applicable rules and recruitment notification.
+
+---
+
+## Q23. Is an EWS Income and Asset Certificate permanent like a date of birth certificate?
+
+No.
+
+EWS certificate is not permanent like date of birth. It is based on the candidate's family income and assets for the relevant period.
+
+Since income and assets may change, EWS status is generally checked with reference to the financial year or cut-off period required by the recruitment notification.
+
+### Memory Line
+
+EWS certificate = economic-status certificate, not permanent-status certificate.
+
+---
+
+# Article 16 — Whole Article Memory
+
+## Q24. What is the correct one-line memory for Article 16 as a whole?
+
+Article 16 guarantees equality of opportunity for citizens in public employment and permits constitutionally recognised exceptions for residence requirements, reservation, promotion reservation, carry-forward vacancies, religious offices, and EWS reservation.
+
+---
+
 # Common Mistakes to Avoid
 
-1. Do not say Article 16(4A) applies to all backward classes. It specifically refers to SC/ST.
-2. Do not say Article 16(4A) gives automatic promotion. It is an enabling provision.
-3. Do not confuse promotion with consequential seniority.
-4. Do not say Article 16(4B) connects only with Article 16(4). It connects with both Article 16(4) and 16(4A).
-5. Do not say Article 16(4B) itself fixes a numerical upper limit. It does not.
-6. Do not merge academic backlog with documentation backlog.
+1. Do not say Article 16(1) applies only to inadequately represented citizens. It applies to all citizens.
+2. Do not call Article 16(3) a reservation clause. It is about residence requirement, and only Parliament can make such law.
+3. Do not say Article 16(4A) applies to all backward classes. It specifically refers to SC/ST.
+4. Do not say Article 16(4A) gives automatic promotion. It is an enabling provision.
+5. Do not confuse promotion with consequential seniority.
+6. Do not say Article 16(4B) connects only with Article 16(4). It connects with both Article 16(4) and 16(4A).
+7. Do not say Article 16(4B) deals with unreserved vacancies. It deals with unfilled reserved vacancies.
+8. Do not say Article 16(4B) itself fixes a numerical upper limit. It does not.
+9. Do not treat Article 16(5) as covering every ordinary job in a religious institution. It concerns offices connected with religious/denominational affairs.
+10. Do not treat EWS certificate as permanent like date of birth. It depends on income/assets for the relevant period.
+11. Do not merge academic backlog with documentation backlog.
 
 ---
 
 # One-Page Revision Lines
 
-1. Article 16(4) = reservation in appointments/posts for backward class of citizens not adequately represented in State services.
-2. Article 16(4A) = SC/ST promotion reservation with consequential seniority.
-3. Consequential seniority = seniority benefit flowing from reservation-based promotion.
-4. Promotional roster = vacancy-allocation mechanism for promotion vacancies.
-5. Article 16(4B) = carry-forward of unfilled reserved vacancies under Article 16(4) or 16(4A).
-6. Article 16(4B) does not prescribe a fixed numerical upper limit but is subject to constitutional and service-law controls.
+1. Article 16(1) = equality of opportunity for all citizens in public employment.
+2. Article 16(2) = no discrimination in public employment on religion, race, caste, sex, descent, place of birth, residence or any of them.
+3. Article 16(3) = Parliament may prescribe residence requirement for certain employment.
+4. Article 16(4) = reservation in appointments/posts for backward class of citizens not adequately represented in State services.
+5. Article 16(4A) = SC/ST promotion reservation with consequential seniority.
+6. Consequential seniority = seniority benefit flowing from reservation-based promotion.
+7. Promotional roster = vacancy-allocation mechanism for promotion vacancies.
+8. Article 16(4B) = carry-forward of unfilled reserved vacancies under Article 16(4) or 16(4A).
+9. Article 16(5) = religious/denominational office exception.
+10. Article 16(6) = EWS reservation in public employment up to 10%, excluding Article 16(4) classes.
+11. Article 16 as a whole = equality of opportunity in public employment with constitutionally recognised exceptions.
