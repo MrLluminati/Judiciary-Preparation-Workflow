@@ -4,14 +4,14 @@
 
 | Field | Status |
 |---|---|
-| Exam Target | Bihar Judiciary |
-| Preparation Mode | Practicing advocate + structured study |
-| Current Cycle | 12-week first cycle |
-| Current Week | Week 1 |
+| Exam Target | Bihar Judiciary Prelims — 03.06.2026 |
+| Preparation Mode | Practicing advocate + emergency prelims crash mode |
+| Current Cycle | Emergency prelims sprint |
+| Current Week | Week 1 compressed |
 | Current Active Bare Act | Constitution of India |
 | Current Topic | Fundamental Rights |
-| Current Provisions | Articles 12, 13, 14, 15 and 16 completed at basic level; Article 17 and Article 18 next |
-| Current Ladder Status | Day 5 closed early after Study Block 1; Article 17, Article 18, and Article 19 overview carried forward to next study day |
+| Current Provisions | Articles 12 to 18 completed at basic level; Article 19 overview started but clause sequence needs revision |
+| Current Ladder Status | Emergency kickstart session closed; next target is Article 19 revision, Article 20, and Article 21 crash basics |
 
 ## Daily Progress Log
 
@@ -23,6 +23,7 @@
 | Day 3 | 2026-05-13 | Constitution: Article 15 revision + Article 16(1)–16(2) | Article 15 revision micro-drill completed; Article 16 terminology focus completed; Article 16(1)–16(2) initial answer completed; Articles 14/15/16 comparison completed | Article 16 consolidation completed; Article 16 short drill completed; Articles 14–16 MCQ drill 10/10; mains skeleton on Articles 14, 15 and 16 completed; error-log updated | Article 14 case-law revision; Article 15 clause-table revision; Article 16(2) grounds revision; equality-code conclusion line revised | Closed | Day 3 closed. Study work completed. Article 16 clean notebook consolidation completed later. |
 | Day 4 | 2026-05-14 | Constitution: Article 16(3)–16(4B) | 5-minute recall of Article 16(1)–16(2); Article 16(3) residence requirement; Article 16(4) reservation for backward classes; Article 16(4) research paper idea saved | Article 16(4A) reservation in promotion; consequential seniority; promotional roster; judicial service examples; State criteria for reservation in promotion; Article 16(4B) carry-forward vacancies; upper-limit doubt; Article 16(4B) drill corrected | Documentation sync; Article 16(4A) research/publication idea saved; teaching/drill protocol updated; dashboard cleanup and visuals improved during block diversion | Closed | Article 16(4A) concept clear. Article 16(4B) concept clear. Correction: Article 16(4B) connects with both Article 16(4) and Article 16(4A). Carry forward Article 16(5), Article 16(6), and consolidation drill. |
 | Day 5 | 2026-05-15 | Constitution: Article 16 completion | Article 16 recall; Article 16(5) religious/denominational institution exception; Article 16(6) EWS reservation in public employment; EWS certificate doubts; Article 16 consolidation drill completed | Not attempted | Not attempted | Closed early | Article 16 completed at basic level. Academic backlog for next study day: Article 17, Article 18, Article 19 overview. Corrections: 16(1) applies to all citizens; 16(3) is residence requirement by Parliament, not reservation; 16(4B) deals with unfilled reserved vacancies, not unreserved vacancies. |
+| Emergency Kickstart | 2026-05-16 | Constitution: Articles 17, 18, Article 19 overview | Article 17 and Article 18 crash study; Article 18(3) non-citizen and office of profit/trust explained; Article 17-18 drill completed | Article 19 overview started; reasonable restrictions and obscenity doubts discussed; Article 19 drill partly attempted | Documentation notes created | Closed | Article 17 and 18 clear. Article 19 overview started but weak: 19(1)(c), 19(1)(d), 19(1)(e), 19(1)(g) sequence needs revision. Next: Article 19 correction drill, then Article 20 and 21 crash basics. |
 
 ## Current Weak Areas Identified
 
@@ -40,6 +41,11 @@
 | Article 16(4B) scope | Corrected: deals with unfilled reserved vacancies under Article 16(4) or Article 16(4A), not unreserved vacancies |
 | Article 16(5) scope | Concept clear; remember it applies to offices connected with religious/denominational institutions, not every ordinary job in such institution |
 | Article 16(6) EWS | Concept clear; remember EWS certificate is income/asset based for relevant period, not permanent like date of birth |
+| Article 17 | Clear; revise that enforcement of disability arising out of untouchability is an offence punishable by law |
+| Article 18 | Clear; revise Articles 18(3) and 18(4) with President's consent |
+| Article 19 clause sequence | Weak: memorise 19(1)(a), (b), (c), (d), (e), (g) as Speech, Assembly, Association, Movement, Residence, Profession |
+| Article 19(1)(f) | Remember omitted; property now under Article 300A |
+| Article 19 restrictions | Basic understanding started; revise 19(2) to 19(6) mapping |
 | Mains conclusion writing | Formula taught and revised: Article 14 broad equality + Article 15 specific non-discrimination + Article 16 employment equality = equality code |
 
 ## Day 4 — Study Block 1 Status
@@ -116,6 +122,40 @@ Academic carry-forward to next study day:
 2. Article 18 — abolition of titles.
 3. Article 19 overview — six freedoms and restrictions, if time permits.
 
+## Emergency Kickstart Session — 16.05.2026
+
+Completed:
+
+1. Strategy shifted to emergency prelims crash mode after exam date announcement.
+2. Article 17 — abolition of untouchability.
+3. Article 18 — abolition of titles.
+4. Doubt clarified: non-citizen and office of profit/trust under Article 18(3).
+5. Article 17-18 drill completed and corrected.
+6. Article 19 overview started.
+7. Reasonable restrictions under Article 19 explained with examples.
+8. Doubts on obscenity, decency, morality, revealing/semi-nude content, and Article 19(2) discussed for conceptual clarity.
+9. Article 19 quick drill partly attempted.
+10. Article 17-19 prelims crash notes created:
+   `notes/constitution/article-17-19-prelims-crash-notes.md`
+
+Important corrections:
+
+1. Article 17: enforcement of disability arising out of untouchability is an offence punishable by law.
+2. Article 18: Article 18 is abolition of titles, not only a citizen-focused clause.
+3. Article 19(1)(c): associations, unions, co-operative societies.
+4. Article 19(1)(d): movement throughout India.
+5. Article 19(1)(e): residence and settlement.
+6. Article 19(1)(g): profession, occupation, trade or business.
+7. Article 19(1)(f): omitted; property now under Article 300A.
+
+Carry-forward:
+
+1. Article 19 clause sequence correction drill.
+2. Article 19 restrictions mapping drill.
+3. Article 20 crash basics.
+4. Article 21 crash basics.
+5. Constitution MCQs Articles 16-21.
+
 ## Next Study Target
 
-**Next study day: Article 17 and Article 18 first, then Article 19 overview if time permits.**
+**Next session: Article 19 correction drill, Article 20, Article 21, then Constitution MCQs on Articles 16-21.**
