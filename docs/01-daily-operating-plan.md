@@ -13,9 +13,34 @@ Core sources used:
 5. Subject Priority Map and Article/Section Focus from Wall Planner.
 6. User-specific routine: practicing advocate, court by 9:00 AM, return between 2:00 PM and 4:00 PM.
 
+## Current Temporary Mode — Emergency Prelims Sprint
+
+The Bihar Judiciary Prelims date has been announced as **03.06.2026**.
+
+Until the prelims exam is over, the main 12-week deep-study roadmap is temporarily paused and the workflow shifts to **Emergency Prelims Sprint Mode**.
+
+### Emergency Sprint Rules
+
+1. Prioritise prelims score maximisation over perfect syllabus completion.
+2. Use fast-track method: bare act keywords → short explanation → MCQs/PYQs → error log.
+3. Reduce deep theoretical discussions unless directly useful for prelims.
+4. Log all fast-track work separately in Daily Log, Backlog, Daily Milestones, Progress Tracker, and relevant notes.
+5. Keep record of what was fast-tracked so it can be revisited after prelims.
+6. After 03.06.2026 prelims, return to the main 12-week deep-study roadmap and repair gaps created by fast-track study.
+
+### Emergency Sprint Priority
+
+1. Constitution.
+2. CPC + Limitation.
+3. Evidence/BSA.
+4. BNS + BNSS.
+5. Contract.
+6. Hindi / English / Bihar GK.
+7. Selective TPA, Specific Relief, Trusts, Torts, Commercial Law.
+
 ## Non-Negotiable Principle
 
-The Wall Planner controls the roadmap and priority map. Daily teaching may be adapted for fatigue/court workload, but the overall subject sequence must not be casually changed.
+The Wall Planner controls the original roadmap and priority map. During Emergency Prelims Sprint Mode, the roadmap may be compressed for prelims survival, but all compressed/fast-tracked topics must be logged for later repair.
 
 ## Court-Day Routine
 
